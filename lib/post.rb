@@ -1,5 +1,5 @@
 class Post
   attr_accessor :title , :author
-  song=Post.new
-  song.author = Author.new
+  post=Post.new
+  post.author = Author.new
 end
